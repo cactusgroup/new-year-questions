@@ -71,6 +71,7 @@ label > input {
 }
 
 textarea {
+    resize: none;
     width: 100%;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
